@@ -1,3 +1,6 @@
 ####Chapter 1####
-##Basic Concepts of Statistical Learning##
-1. Bias-Variance Trade-Off
+##Basic concepts of statistical learning & Basic R commands for data manipulation and plotting##
+contour() contour maps
+image() heatmap
+persp() three-dimensional plot
+
